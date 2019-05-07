@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       android:layout_marginBottom="10dp"
+       app:layout_behavior="@string/appbar_scrolling_view_behavior">
+<Button
+    android:id="@+id/btnFable1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="FABLE1"
+    android:layout_marginTop="16dp"
+    android:background="@color/orange"
+    android:textAllCaps="true"
+    />
+       <Button
+           android:id="@+id/btnFable2"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="FABLE2"
+           android:layout_marginTop="16dp"
+           android:background="@color/orange"
+           android:textAllCaps="true"
+           />
+       <Button
+           android:id="@+id/btnFable3"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="FABLE3"
+           android:layout_marginTop="16dp"
+           android:background="@color/orange"
+           android:textAllCaps="true"
+           />
+       <Button
+           android:id="@+id/btnFable4"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="FABLE4"
+           android:background="@color/orange"
+           android:layout_marginTop="16dp"
+           android:textAllCaps="true"
+           />
+       <Button
+           android:id="@+id/btnFable5"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="FABLE5"
+           android:background="@color/orange"
+           android:layout_marginTop="16dp"
+           android:textAllCaps="true"
+           />
+       <Button
+           android:id="@+id/btnFable6"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="FABLE6"
+           android:background="@color/orange"
+           android:layout_marginTop="16dp"
+           android:textAllCaps="true"
+           />
+       <Button
+           android:id="@+id/btnFable7"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="FABLE7"
+           android:background="@color/orange"
+           android:layout_marginTop="16dp"
+           android:textAllCaps="true"
+           />
+       <Button
+           android:id="@+id/btnFable8"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="FABLE8"
+           android:background="@color/orange"
+           android:layout_marginTop="16dp"
+           android:textAllCaps="true"
+           />
+       <Button
+           android:id="@+id/btnFable9"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="FABLE9"
+           android:background="@color/orange"
+           android:layout_marginTop="16dp"
+           android:textAllCaps="true"
+           />
+       <Button
+           android:id="@+id/btnFable10"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="FABLE9"
+           android:background="@color/orange"
+           android:layout_marginTop="16dp"
+           android:textAllCaps="true"
+           />
+   </LinearLayout>
+
+
+
+
+</android.support.design.widget.CoordinatorLayout>

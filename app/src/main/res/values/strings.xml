@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aesopfables</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_androcles_fable">AndroclesFable</string>
+    <string name="title_activity_the_dog_invitedto_supper">TheDogInvitedtoSupper</string>
+    <string name="title_activity_the_camelandthe_arab">TheCamelandtheArab</string>
+    <string name="title_activity_the_boysandthe_frogs">TheBoysandtheFrogs</string>
+    <string name="title_activity_the_mischievous_dog">TheMischievousDog</string>
+    <string name="title_activity_the_lionin_love_fable">TheLioninLoveFable</string>
+    <string name="title_activity_the_fisherandthe_little_fish_fable">
+        TheFisherandtheLittleFishFable
+    </string>
+    <string name="title_activity_the_stageatthe_pool">TheStageatthePool</string>
+    <string name="title_activity_the_mountainsin_labour_fable">TheMountainsinLabourFable</string>
+</resources>
