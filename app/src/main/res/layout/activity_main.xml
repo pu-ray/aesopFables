@@ -24,6 +24,7 @@
        android:layout_height="wrap_content"
        android:orientation="vertical"
        android:layout_marginBottom="10dp"
+       android:padding="16dp"
        app:layout_behavior="@string/appbar_scrolling_view_behavior">
 <Button
     android:id="@+id/btnFable1"
